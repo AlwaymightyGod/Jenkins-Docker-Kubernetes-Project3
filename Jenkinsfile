@@ -8,7 +8,7 @@ pipeline {
 		PROJECT_ID = 'liquid-shape-343710'
                 CLUSTER_NAME = 'maxico-prod-1'
                 LOCATION = 'us-central1-c'
-                CREDENTIALS_ID = 'kubernetes'		
+                CREDENTIALS_ID = 'Prod'		
 	}
 	
     stages {
